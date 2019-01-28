@@ -6,6 +6,7 @@
 ## March 2019
 ## April 2019
 ## May 2019
+- :star: (May 1-3) [GopherCon Singapore 2019](https://gophercon.sg/) - The largest Go programming language conference in Southeast Asia. 
 ## June 2019
 ## July 2019
 ## August 2019
