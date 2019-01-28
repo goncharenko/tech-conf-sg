@@ -4,8 +4,9 @@
 ## January 2019
 - :star: (Jan 16-17) [Microsoft Ignite|The Tour](https://www.microsoft.com/en-sg/ignite-the-tour/singapore) - Learn to write code, optimize your cloud infrastructure, and modernize your organization.
 ## February 2019
-- :star: (Feb 28-Mar 01) [DevSecCon Singapore](https://www.devseccon.com/singapore-2019/) - Singapore conference to engage with leading DevOps and IT Security professionals for a two-day exploration of DevSecOps.
+- :star: (Feb 28-Mar 01) [DevSecCon Singapore](https://www.devseccon.com/singapore-2019) - Singapore conference to engage with leading DevOps and IT Security professionals for a two-day exploration of DevSecOps.
 ## March 2019
+- :star: (Mar 14-17) [FOSS Asia](https://2019.fossasia.org) - The FOSSASIA Summit is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. 
 - :star: (Mar 26-27) [Oracle OpenWorld Asia](https://www.oracle.com/sg/openworld).
 - :star: (Mar 27-28) [IoTAsia](https://www.internetofthingsasia.com).
 ## April 2019
@@ -13,14 +14,16 @@
 - :star: (Apr 24-25) [APIdays](https://www.apidays.co/singapore2019) - APIs, Ecosystems and Finance-as-a-Service.
 ## May 2019
 - :star: (May 01-03) [GopherCon Singapore 2019](https://gophercon.sg) - The largest Go programming language conference in Southeast Asia.
+- :star: (May 30-31) [Voxxed Days](https://voxxeddays.com/singapore) - This international conference is all about developers and their expertise. Topics covering: programming languages, big data, cloud infrastructure, and more.
 ## June 2019
 - :star: (June 12-14) [SREcon](https://www.usenix.org/conference/srecon19asia) - SREcon is a gathering of engineers who care deeply about site reliability, systems engineering, and working with complex distributed systems at scale.
 - :star: (June 14-16) [JSConf.asia](https://2019.jsconf.asia) - The largest web developer conference in Southeast Asia.
 ## July 2019
 ## August 2019
 ## September 2019
+- :star: (Sep 19) [SaaStr](https://www.saastr.com/saastr-east) - All about SaaS.
 ## October 2019
-- :star: (Oct 09-10) [Cloud Expo Asia](https://www.cloudexpoasia.com/). Biggest cloud event in Asia.
+- :star: (Oct 09-10) [Cloud Expo Asia](https://www.cloudexpoasia.com). Biggest cloud event in Asia.
 ## November 2019
 - :star: (Nov 11-15) [Singapore FinTech Festival](https://fintechfestival.sg).
 - :star: (Nov 18-20) [UXSEA](https://uxsea.org/summit-2019) - A unique UX Design event bringing UX enthusiasts together in Singapore from all over Southeast Asia. 
