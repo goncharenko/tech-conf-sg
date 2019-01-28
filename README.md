@@ -33,4 +33,4 @@ This list *needs* the participation of the community.  Know of an upcoming tech 
 
 #### Contribution Format
 
-` - :star: (<date>) <conference-name-with-link> (<location>) - <short-conference-description>`
+` - :star: (<date>) <conference-name-with-link> - <short-conference-description>`
