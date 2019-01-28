@@ -2,7 +2,7 @@
 *A list of upcoming technical conferences*
 
 ## January 2019
-- :star: (Jan 16-17) [Microsoft Ignite|The Tour](https://www.microsoft.com/en-sg/ignite-the-tour/singapore) - Learn to write code, optimize your cloud infrastructure, and modernize your organization.
+- (Jan 16-17) [Microsoft Ignite|The Tour](https://www.microsoft.com/en-sg/ignite-the-tour/singapore) - Learn to write code, optimize your cloud infrastructure, and modernize your organization.
 ## February 2019
 - :star: (Feb 28-Mar 01) [DevSecCon Singapore](https://www.devseccon.com/singapore-2019) - Singapore conference to engage with leading DevOps and IT Security professionals for a two-day exploration of DevSecOps.
 ## March 2019
