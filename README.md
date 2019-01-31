@@ -10,7 +10,7 @@
 - :star: (Mar 26-27) [Oracle OpenWorld Asia](https://www.oracle.com/sg/openworld).
 - :star: (Mar 27-28) [IoTAsia](https://www.internetofthingsasia.com).
 ## April 2019
-- :star: (Apr 10) [AWS Summit Singapore](https://pages.awscloud.com/2019-Global-AWS-Summit) - AWS Global Summits are free events that bring the cloud computing community together to connect, collaborate, and learn about AWS.
+- :star: (Apr 10-11) [AWS Summit Singapore](https://pages.awscloud.com/2019-Global-AWS-Summit) - AWS Global Summits are free events that bring the cloud computing community together to connect, collaborate, and learn about AWS.
 - :star: (Apr 24-25) [APIdays](https://www.apidays.co/singapore2019) - APIs, Ecosystems and Finance-as-a-Service.
 ## May 2019
 - :star: (May 01-03) [GopherCon Singapore 2019](https://gophercon.sg) - The largest Go programming language conference in Southeast Asia.
