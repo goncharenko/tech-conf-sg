@@ -14,7 +14,7 @@
 - :star: (Apr 23-24) [Blockchain Life 2019 Asia](https://blockchain-life.com/asia/en) - One of the biggest and most important forums on Blockchain and Сryptocurrencies in the world.
 - :star: (Apr 24-25) [APIdays](https://www.apidays.co/singapore2019) - APIs, Ecosystems and Finance-as-a-Service.
 ## May 2019
-- :star: (May 01-03) [GopherCon Singapore 2019](https://gophercon.sg) - The largest Go programming language conference in Southeast Asia.
+- :star: (May 03) [GopherCon Singapore 2019](https://gophercon.sg) - The largest Go programming language conference in Southeast Asia.
 - :star: (May 30-31) [Voxxed Days](https://voxxeddays.com/singapore) - This international conference is all about developers and their expertise. Topics covering: programming languages, big data, cloud infrastructure, and more.
 ## June 2019
 - :star: (June 12-14) [SREcon](https://www.usenix.org/conference/srecon19asia) - SREcon is a gathering of engineers who care deeply about site reliability, systems engineering, and working with complex distributed systems at scale.
