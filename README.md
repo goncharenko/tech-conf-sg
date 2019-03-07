@@ -4,7 +4,7 @@
 ## January 2019
 - (Jan 16-17) [Microsoft Ignite|The Tour](https://www.microsoft.com/en-sg/ignite-the-tour/singapore) - Learn to write code, optimize your cloud infrastructure, and modernize your organization.
 ## February 2019
-- :star: (Feb 28-Mar 01) [DevSecCon Singapore](https://www.devseccon.com/singapore-2019) - Singapore conference to engage with leading DevOps and IT Security professionals for a two-day exploration of DevSecOps.
+- (Feb 28-Mar 01) [DevSecCon Singapore](https://www.devseccon.com/singapore-2019) - Singapore conference to engage with leading DevOps and IT Security professionals for a two-day exploration of DevSecOps.
 ## March 2019
 - :star: (Mar 14-17) [FOSS Asia](https://2019.fossasia.org) - The FOSSASIA Summit is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. 
 - :star: (Mar 26-27) [Oracle OpenWorld Asia](https://www.oracle.com/sg/openworld).
