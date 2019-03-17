@@ -6,7 +6,7 @@
 ## February 2019
 - (Feb 28-Mar 01) [DevSecCon Singapore](https://www.devseccon.com/singapore-2019) - Singapore conference to engage with leading DevOps and IT Security professionals for a two-day exploration of DevSecOps.
 ## March 2019
-- :star: (Mar 14-17) [FOSS Asia](https://2019.fossasia.org) - The FOSS ASIA Summit is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. 
+- (Mar 14-17) [FOSS Asia](https://2019.fossasia.org) - The FOSS ASIA Summit is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. 
 - :star: (Mar 26-27) [Oracle OpenWorld Asia](https://www.oracle.com/sg/openworld).
 - :star: (Mar 27-28) [IoTAsia](https://www.internetofthingsasia.com) - The event connects technology solution providers, enablers, end-users and potential IoT technology adopters from online to offline.
 ## April 2019
