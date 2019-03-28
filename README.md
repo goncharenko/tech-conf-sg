@@ -24,6 +24,7 @@
 ## August 2019
 ## September 2019
 - :star: (Sep 19) [SaaStr](https://www.saastr.com/saastr-east) - All about SaaS.
+- :star: (Sep TBA) [YOW!Singapore 2019](https://www.yowconference.sg) - YOW! Conferences, Workshops & Nights are events for software developers to help them stay up-to-date with the latest best practices and to network with their peers.
 ## October 2019
 - :star: (Oct 09-10) [Cloud Expo Asia](https://www.cloudexpoasia.com). Biggest cloud event in Asia.
 ## November 2019
