@@ -8,7 +8,7 @@
 ## March 2019
 - (Mar 14-17) [FOSS Asia](https://2019.fossasia.org) - The FOSS ASIA Summit is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. 
 - (Mar 26-27) [Oracle OpenWorld Asia](https://www.oracle.com/sg/openworld).
-- :star: (Mar 27-28) [IoTAsia](https://www.internetofthingsasia.com) - The event connects technology solution providers, enablers, end-users and potential IoT technology adopters from online to offline.
+- (Mar 27-28) [IoTAsia](https://www.internetofthingsasia.com) - The event connects technology solution providers, enablers, end-users and potential IoT technology adopters from online to offline.
 ## April 2019
 - :star: (Apr 10-11) [AWS Summit Singapore](https://pages.awscloud.com/2019-Global-AWS-Summit) - AWS Global Summits are free events that bring the cloud computing community together to connect, collaborate, and learn about AWS.
 - :star: (Apr 23-24) [Blockchain Life 2019 Asia](https://blockchain-life.com/asia/en) - One of the biggest and most important forums on Blockchain and Сryptocurrencies in the world.
