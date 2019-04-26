@@ -11,8 +11,8 @@
 - (Mar 27-28) [IoTAsia](https://www.internetofthingsasia.com) - The event connects technology solution providers, enablers, end-users and potential IoT technology adopters from online to offline.
 ## April 2019
 - (Apr 10-11) [AWS Summit Singapore](https://pages.awscloud.com/2019-Global-AWS-Summit) - AWS Global Summits are free events that bring the cloud computing community together to connect, collaborate, and learn about AWS.
-- :star: (Apr 23-24) [Blockchain Life 2019 Asia](https://blockchain-life.com/asia/en) - One of the biggest and most important forums on Blockchain and Сryptocurrencies in the world.
-- :star: (Apr 24-25) [APIdays](https://www.apidays.co/singapore2019) - APIs, Ecosystems and Finance-as-a-Service.
+- (Apr 23-24) [Blockchain Life 2019 Asia](https://blockchain-life.com/asia/en) - One of the biggest and most important forums on Blockchain and Сryptocurrencies in the world.
+- (Apr 24-25) [APIdays](https://www.apidays.co/singapore2019) - APIs, Ecosystems and Finance-as-a-Service.
 - :star: (Apr 27) [Azure Bootcamp 2019](https://global.azurebootcamp.net) - Global Azure Bootcamp is a day long Windows Azure Community event held at different locations around the globe by the local community leaders or Windows Azure enthusiasts in order to benefit the local community members by providing essential training on Azure skills via both sessions and labs.
 ## May 2019
 - :star: (May 03) [GopherCon Singapore 2019](https://gophercon.sg) - The largest Go programming language conference in Southeast Asia.
