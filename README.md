@@ -20,6 +20,7 @@
 ## June 2019
 - :star: (June 12-14) [SREcon](https://www.usenix.org/conference/srecon19asia) - SREcon is a gathering of engineers who care deeply about site reliability, systems engineering, and working with complex distributed systems at scale.
 - :star: (June 14-16) [JSConf.asia](https://2019.jsconf.asia) - The largest web developer conference in Southeast Asia.
+- :star: (June 24-25) [PHP Conference asia 2019](https://2019.phpconf.asia) - PHPConf.Asia is a Pan-Asian conference aimed at spreading the adoption, knowledge and professionalism of PHP and its derivative technologies in the South East Asia developer community through talks, collaborations and networking.
 ## July 2019
 ## August 2019
 ## September 2019
