@@ -16,7 +16,7 @@
 - (Apr 27) [Azure Bootcamp 2019](https://global.azurebootcamp.net) - Global Azure Bootcamp is a day long Windows Azure Community event held at different locations around the globe by the local community leaders or Windows Azure enthusiasts in order to benefit the local community members by providing essential training on Azure skills via both sessions and labs.
 ## May 2019
 - (May 03) [GopherCon Singapore 2019](https://gophercon.sg) - The largest Go programming language conference in Southeast Asia.
-- :star: (May 30-31) [Voxxed Days](https://voxxeddays.com/singapore) - This international conference is all about developers and their expertise. Topics covering: programming languages, big data, cloud infrastructure, and more.
+- (May 30-31) [Voxxed Days](https://voxxeddays.com/singapore) - This international conference is all about developers and their expertise. Topics covering: programming languages, big data, cloud infrastructure, and more.
 ## June 2019
 - :star: (June 12-14) [SREcon](https://www.usenix.org/conference/srecon19asia) - SREcon is a gathering of engineers who care deeply about site reliability, systems engineering, and working with complex distributed systems at scale.
 - :star: (June 14-16) [JSConf.asia](https://2019.jsconf.asia) - The largest web developer conference in Southeast Asia.
