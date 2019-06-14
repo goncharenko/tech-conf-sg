@@ -18,7 +18,7 @@
 - (May 03) [GopherCon Singapore 2019](https://gophercon.sg) - The largest Go programming language conference in Southeast Asia.
 - (May 30-31) [Voxxed Days](https://voxxeddays.com/singapore) - This international conference is all about developers and their expertise. Topics covering: programming languages, big data, cloud infrastructure, and more.
 ## June 2019
-- :star: (June 12-14) [SREcon](https://www.usenix.org/conference/srecon19asia) - SREcon is a gathering of engineers who care deeply about site reliability, systems engineering, and working with complex distributed systems at scale.
+- (June 12-14) [SREcon](https://www.usenix.org/conference/srecon19asia) - SREcon is a gathering of engineers who care deeply about site reliability, systems engineering, and working with complex distributed systems at scale.
 - :star: (June 14-16) [JSConf.asia](https://2019.jsconf.asia) - The largest web developer conference in Southeast Asia.
 - :star: (June 24-25) [PHPConf.Asia 2019](https://2019.phpconf.asia) - PHPConf.Asia is a Pan-Asian conference aimed at spreading the adoption, knowledge and professionalism of PHP and its derivative technologies in the South East Asia developer community through talks, collaborations and networking.
 ## July 2019
