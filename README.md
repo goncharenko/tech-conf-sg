@@ -23,6 +23,7 @@
 - (June 24-25) [PHPConf.Asia 2019](https://2019.phpconf.asia) - PHPConf.Asia is a Pan-Asian conference aimed at spreading the adoption, knowledge and professionalism of PHP and its derivative technologies in the South East Asia developer community through talks, collaborations and networking.
 - (June 29) [INSIDER DEV TOUR Singapore](https://developer.microsoft.com/en-us/windows/campaigns/sg-singapore) - The Insider Dev Tour is for developers interested in building Microsoft 365 experiences (Windows, Graph, Office, Teams) today, using the latest dev technologies, as well as for those who want a peek into the future.
 ## July 2019
+- :star: (July 31) [TestCon Singapore 2019](https://www.clavent.com/testcon-2019-singapore/) - Leading conference for everyone willing to learn testing trends, best practices and make their contribution to the smoother software development cycle and quality.
 ## August 2019
 ## September 2019
 - :star: (Sep 13) [YOW!Singapore 2019](https://www.yowconference.sg) - YOW! Conferences, Workshops & Nights are events for software developers to help them stay up-to-date with the latest best practices and to network with their peers.
