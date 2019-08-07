@@ -24,7 +24,7 @@ A list of upcoming technical conferences in Singapore
 
 ## July 2019
 
-- :star: (July 31) [TestCon Singapore 2019](https://www.clavent.com/testcon-2019-singapore/) - Leading conference for everyone willing to learn testing trends, best practices and make their contribution to the smoother software development cycle and quality.
+- (July 31) [TestCon Singapore 2019](https://www.clavent.com/testcon-2019-singapore/) - Leading conference for everyone willing to learn testing trends, best practices and make their contribution to the smoother software development cycle and quality.
 
 ## June 2019
 
