@@ -6,9 +6,12 @@ A list of upcoming technical conferences in Singapore
 
 ## February 2020
 
+- :star: (Feb 25-26) [EMTech Asia](https://emtechasia.com/) - Since 2014 EmTech has been Asia’s premier event shaping the conversation on the emerging technologies that matter. From Deep Learning, to Blockchain, Genome Editing, Mixed Reality, Fusion Power, and much more, you hear it first at EmTech Asia.
 - :star: (Feb 20-21) [Microsoft Ignite | The Tour](https://www.microsoft.com/en-sg/ignite-the-tour/singapore) - Learn to write code, optimize your cloud infrastructure, and modernize your organization.
 
 ## January 2020
+
+- :star: (Jan 15-18) [iOS Conf SG](https://2019.iosconf.sg/) - Biggest iOS conference in Asia. Cover a great number fo speaker and topics.
 
 ## December 2019
 
@@ -19,8 +22,8 @@ A list of upcoming technical conferences in Singapore
 
 ## October 2019
 
-- :star: (Oct 16) [Google Cloud Summit](https://inthecloud.withgoogle.com/summit-sgp-19/home.html). Build, innovate, and scale with Google Cloud Platform. 
-- :star: (Oct 09-10) [Cloud Expo Asia](https://www.cloudexpoasia.com). Biggest cloud event in Asia.
+- :star: (Oct 16) [Google Cloud Summit](https://inthecloud.withgoogle.com/summit-sgp-19/home.html) - Build, innovate, and scale with Google Cloud Platform. 
+- :star: (Oct 09-10) [Cloud Expo Asia](https://www.cloudexpoasia.com) - Biggest cloud event in Asia.
 
 ## September 2019
 
