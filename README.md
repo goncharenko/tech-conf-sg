@@ -19,7 +19,7 @@ A list of upcoming technical conferences in Singapore
 ## September 2019
 
 - :star: (Sep 19) [SaaStr](https://www.saastr.com/saastr-east) - All about SaaS.
-- :star: (Sep 13) [YOW!Singapore 2019](https://www.yowconference.sg) - YOW! Conferences, Workshops & Nights are events for software developers to help them stay up-to-date with the latest best practices and to network with their peers.
+- :star: (Sep 9) [YOW!Singapore 2019](https://www.yowconference.sg) - YOW! Conferences, Workshops & Nights are events for software developers to help them stay up-to-date with the latest best practices and to network with their peers.
 
 ## August 2019
 
