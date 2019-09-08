@@ -6,7 +6,7 @@ A list of upcoming technical conferences in Singapore
 
 ## February 2020
 
-- :star: (Feb 20-21) [Microsoft Ignite|The Tour](https://www.microsoft.com/en-sg/ignite-the-tour/singapore) - Learn to write code, optimize your cloud infrastructure, and modernize your organization.
+- :star: (Feb 20-21) [Microsoft Ignite | The Tour](https://www.microsoft.com/en-sg/ignite-the-tour/singapore) - Learn to write code, optimize your cloud infrastructure, and modernize your organization.
 
 ## December 2019
 
@@ -62,7 +62,7 @@ A list of upcoming technical conferences in Singapore
 
 ## January 2019
 
-- (Jan 16-17) [Microsoft Ignite|The Tour](https://www.microsoft.com/en-sg/ignite-the-tour/singapore) - Learn to write code, optimize your cloud infrastructure, and modernize your organization.
+- (Jan 16-17) [Microsoft Ignite | The Tour](https://www.microsoft.com/en-sg/ignite-the-tour/singapore) - Learn to write code, optimize your cloud infrastructure, and modernize your organization.
 
 ### Contributions
 
