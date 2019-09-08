@@ -13,6 +13,7 @@ A list of upcoming technical conferences in Singapore
 
 ## October 2019
 
+- :star: (Oct 16) [Google Cloud Summit](https://inthecloud.withgoogle.com/summit-sgp-19/home.html). Build, innovate, and scale with Google Cloud Platform. 
 - :star: (Oct 09-10) [Cloud Expo Asia](https://www.cloudexpoasia.com). Biggest cloud event in Asia.
 
 ## September 2019
@@ -28,9 +29,9 @@ A list of upcoming technical conferences in Singapore
 
 ## June 2019
 
-- (June 29) [INSIDER DEV TOUR Singapore](https://developer.microsoft.com/en-us/windows/campaigns/sg-singapore) - The Insider Dev Tour is for developers interested in building Microsoft 365 experiences (Windows, Graph, Office, Teams) today, using the latest dev technologies, as well as for those who want a peek into the future.
+- (June 29) [INSIDER DEV TOUR Singapore](https://developer.microsoft.com/en-us/windows/campaigns/sg-singapore) - The Insider Dev Tour is event for developers interested in building Microsoft 365 experiences (Windows, Graph, Office, Teams) today, using the latest dev technologies, as well as for those who want a peek into the future.
 - (June 24-25) [PHPConf.Asia 2019](https://2019.phpconf.asia) - PHPConf.Asia is a Pan-Asian conference aimed at spreading the adoption, knowledge and professionalism of PHP and its derivative technologies in the South East Asia developer community through talks, collaborations and networking.
-- (June 14-16) [JSConf.asia](https://2019.jsconf.asia) - The largest web developer conference in Southeast Asia.
+- (June 14-16) [JSConf.asia](https://2019.jsconf.asia) - The largest web developers conference in Southeast Asia.
 - (June 12-14) [SREcon](https://www.usenix.org/conference/srecon19asia) - SREcon is a gathering of engineers who care deeply about site reliability, systems engineering, and working with complex distributed systems at scale.
 
 ## May 2019
