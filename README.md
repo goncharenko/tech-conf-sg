@@ -22,8 +22,8 @@ A list of upcoming technical conferences in Singapore
 
 ## October 2019
 
-- :star: (Oct 16) [Google Cloud Summit](https://inthecloud.withgoogle.com/summit-sgp-19/home.html) - Build, innovate, and scale with Google Cloud Platform. 
-- :star: (Oct 09-10) [Cloud Expo Asia](https://www.cloudexpoasia.com) - Biggest cloud event in Asia.
+- (Oct 16) [Google Cloud Summit](https://inthecloud.withgoogle.com/summit-sgp-19/home.html) - Build, innovate, and scale with Google Cloud Platform. 
+- (Oct 09-10) [Cloud Expo Asia](https://www.cloudexpoasia.com) - Biggest cloud event in Asia.
 
 ## September 2019
 
