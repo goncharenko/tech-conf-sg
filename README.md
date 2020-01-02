@@ -17,7 +17,7 @@ A list of upcoming technical conferences in Singapore
 
 ## November 2019
 
-- :star: (Nov 18-20) [UXSEA](https://uxsea.org/summit-2019) - A unique UX Design event bringing UX enthusiasts together in Singapore from all over Southeast Asia.
+- (Nov 18-20) [UXSEA](https://uxsea.org/summit-2019) - A unique UX Design event bringing UX enthusiasts together in Singapore from all over Southeast Asia.
 - (Nov 11-15) [Singapore FinTech Festival](https://fintechfestival.sg).
 
 ## October 2019
