@@ -14,7 +14,7 @@ A list of upcoming technical conferences in Singapore
 
 ## January 2020
 
-- :star: (Jan 15-18) [iOS Conf SG](https://2019.iosconf.sg/) - Biggest iOS conference in Asia. Cover a great number fo speaker and topics.
+- :star: (Jan 15-18) [iOS Conf SG](https://2020.iosconf.sg/) - Biggest iOS conference in Asia. Cover a great number fo speaker and topics.
 
 ## December 2019
 
