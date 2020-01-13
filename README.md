@@ -4,6 +4,9 @@ A list of upcoming technical conferences in Singapore
 
 ## Future...
 
+## March 2020
+- :star: (Mar 23-26) [DevOpsCon](https://devopscon.io/singapore/) - The Conference for Continuous Delivery, Microservices, Containers, Cloud & Lean Business.
+
 ## February 2020
 
 - :star: (Feb 25-26) [EMTech Asia](https://emtechasia.com/) - Since 2014 EmTech has been Asia’s premier event shaping the conversation on the emerging technologies that matter. From Deep Learning, to Blockchain, Genome Editing, Mixed Reality, Fusion Power, and much more, you hear it first at EmTech Asia.
