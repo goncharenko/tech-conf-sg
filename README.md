@@ -8,8 +8,10 @@ A list of upcoming technical conferences in Singapore
 - :star: (May 26-29) [GopherCon Singapore 2020](https://2020.gophercon.sg) - The largest Go programming language conference in Southeast Asia.
 
 ## April 2020
+- :star: (Apr 21-21) [Oracle OpenWorld Asia](https://www.oracle.com/sg/openworld).
 
 ## March 2020
+- :star: (Mar 25-26) [IoTAsia](https://www.internetofthingsasia.com) - The event connects technology solution providers, enablers, end-users and potential IoT technology adopters from online to offline.
 - :star: (Mar 23-26) [DevOpsCon](https://devopscon.io/singapore) - The Conference for Continuous Delivery, Microservices, Containers, Cloud & Lean Business.
 - :star: (Mar 19-22) [FOSS Asia](https://summit.fossasia.org) - The FOSS ASIA Summit is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors.
 - :star: (Mar 18-19) [DevSecCon Singapore](https://www.devseccon.com/singapore-2020) - Singapore conference to engage with leading DevOps and IT Security professionals for a two-day exploration of DevSecOps.
