@@ -4,11 +4,14 @@ A list of upcoming technical conferences in Singapore
 
 ## Future...
 
-## May 2019
+## May 2020
 - :star: (May 26-29) [GopherCon Singapore 2020](https://2020.gophercon.sg) - The largest Go programming language conference in Southeast Asia.
 
 ## April 2020
-- :star: (Apr 21-21) [Oracle OpenWorld Asia](https://www.oracle.com/sg/openworld).
+- :star: (Apr 23-35) [Azure Bootcamp 2020](https://globalazure.net) - Global Azure Bootcamp is a day long Windows Azure Community event held at different locations around the globe by the local community leaders or Windows Azure enthusiasts in order to benefit the local community members by providing essential training on Azure skills via both sessions and labs.
+- :star: (Apr 21-22) [Oracle OpenWorld Asia](https://www.oracle.com/sg/openworld).
+- :star: (Apr 10-11) [AWS Summit Singapore](https://aws.amazon.com/events/summits/singapore) - AWS Global Summits are free events that bring the cloud computing community together to connect, collaborate, and learn about AWS.
+- :star: (Apr 01-02) [APIdays](https://www.apidays.co/singapore) - APIs, Ecosystems and Finance-as-a-Service.
 
 ## March 2020
 - :star: (Mar 25-26) [IoTAsia](https://www.internetofthingsasia.com) - The event connects technology solution providers, enablers, end-users and potential IoT technology adopters from online to offline.
