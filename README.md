@@ -4,6 +4,14 @@ A list of upcoming technical conferences in Singapore
 
 ## Future...
 
+## August 2020
+- :star: (Aug 27-28) [DATAx Singapore](https://www.theinnovationenterprise.com/summits/datax-singapore) - DATAx Singapore is one of the largest gathering of C-Level Data and AI professionals in Asia.
+
+## July 2020
+
+## June 2020
+- :star: (June 05) [Voxxed Days 2020](https://voxxeddays.com/singapore) - This international conference is all about developers and their expertise. Topics covering: programming languages, big data, cloud infrastructure, and more.
+
 ## May 2020
 - :star: (May 26-29) [GopherCon Singapore 2020](https://2020.gophercon.sg) - The largest Go programming language conference in Southeast Asia.
 
