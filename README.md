@@ -4,6 +4,11 @@ A list of upcoming technical conferences in Singapore
 
 ## Future...
 
+## May 2019
+- :star: (May 26-29) [GopherCon Singapore 2020](https://2020.gophercon.sg) - The largest Go programming language conference in Southeast Asia.
+
+## April 2020
+
 ## March 2020
 - :star: (Mar 23-26) [DevOpsCon](https://devopscon.io/singapore/) - The Conference for Continuous Delivery, Microservices, Containers, Cloud & Lean Business.
 
