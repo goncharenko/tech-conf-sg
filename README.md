@@ -29,8 +29,8 @@ A list of upcoming technical conferences in Singapore
 
 ## February 2020
 
-- :star: (Feb 25-26) [EMTech Asia](https://emtechasia.com/) - Since 2014 EmTech has been Asia’s premier event shaping the conversation on the emerging technologies that matter. From Deep Learning, to Blockchain, Genome Editing, Mixed Reality, Fusion Power, and much more, you hear it first at EmTech Asia.
-- :star: (Feb 20-21) [Microsoft Ignite | The Tour](https://www.microsoft.com/en-sg/ignite-the-tour/singapore) - Learn to write code, optimize your cloud infrastructure, and modernize your organization.
+- (Feb 25-26) [EMTech Asia](https://emtechasia.com/) - Since 2014 EmTech has been Asia’s premier event shaping the conversation on the emerging technologies that matter. From Deep Learning, to Blockchain, Genome Editing, Mixed Reality, Fusion Power, and much more, you hear it first at EmTech Asia.
+- (Feb 20-21) [Microsoft Ignite | The Tour](https://www.microsoft.com/en-sg/ignite-the-tour/singapore) - Learn to write code, optimize your cloud infrastructure, and modernize your organization.
 
 ## January 2020
 
